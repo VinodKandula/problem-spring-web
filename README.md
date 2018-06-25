@@ -1,3 +1,5 @@
+https://dzone.com/articles/rest-api-error-handling-problem-details-response
+
 # Problems for Spring Web MVC
 
 [![Build Status](https://img.shields.io/travis/zalando/problem-spring-web/master.svg)](https://travis-ci.org/zalando/problem-spring-web)
